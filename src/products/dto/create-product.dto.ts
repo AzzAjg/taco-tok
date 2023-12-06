@@ -7,7 +7,7 @@ export class CreateProductDto {
     minLength: 36,
     maxLength: 36,
   })
-  @IsString()
+  @IsUUID()
   @Length(36)
   public uuid: string;
 

@@ -1,3 +1,5 @@
+<img src="tacoTok.jpg" />
+
 # E-Commerce API
 
 [Management Rules](management_rules.md) 
